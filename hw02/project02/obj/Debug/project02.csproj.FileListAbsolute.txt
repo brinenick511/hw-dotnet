@@ -1,0 +1,8 @@
+D:\CSharpCode\hw02\project02\bin\Debug\project02.exe.config
+D:\CSharpCode\hw02\project02\bin\Debug\project02.exe
+D:\CSharpCode\hw02\project02\bin\Debug\project02.pdb
+D:\CSharpCode\hw02\project02\obj\Debug\project02.csproj.AssemblyReference.cache
+D:\CSharpCode\hw02\project02\obj\Debug\project02.csproj.SuggestedBindingRedirects.cache
+D:\CSharpCode\hw02\project02\obj\Debug\project02.csproj.CoreCompileInputs.cache
+D:\CSharpCode\hw02\project02\obj\Debug\project02.exe
+D:\CSharpCode\hw02\project02\obj\Debug\project02.pdb
