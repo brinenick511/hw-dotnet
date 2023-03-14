@@ -1,0 +1,7 @@
+G:\CSharpCode\hw03\project02\bin\Debug\project02.exe.config
+G:\CSharpCode\hw03\project02\bin\Debug\project02.exe
+G:\CSharpCode\hw03\project02\bin\Debug\project02.pdb
+G:\CSharpCode\hw03\project02\obj\Debug\project02.csprojAssemblyReference.cache
+G:\CSharpCode\hw03\project02\obj\Debug\project02.csproj.CoreCompileInputs.cache
+G:\CSharpCode\hw03\project02\obj\Debug\project02.exe
+G:\CSharpCode\hw03\project02\obj\Debug\project02.pdb
