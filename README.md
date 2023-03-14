@@ -4,6 +4,6 @@ Assignments for the ***Software Construction*** course.
 - by ***Yang HaoQi***.
 ---
 - [x] hw-01 (Updated at 3/5)
-- [ ] hw-02 (Updated at 3/5)
-- [ ] hw-03
+- [x] hw-02 (Updated at 3/5)
+- [x] hw-03 (Updated at 3/14)
 - [ ] hw-04
