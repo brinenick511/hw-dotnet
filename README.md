@@ -6,4 +6,4 @@ Assignments for the ***Software Construction*** course.
 - [x] hw-01 (Updated at 3/5)
 - [x] hw-02 (Updated at 3/5)
 - [x] hw-03 (Updated at 3/14)
-- [ ] hw-04
+- [x] hw-04 (Updated at 3/21)
