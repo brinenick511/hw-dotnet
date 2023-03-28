@@ -1,0 +1,7 @@
+G:\CSharpCode\hw05\MainProject\bin\Debug\MainProject.exe.config
+G:\CSharpCode\hw05\MainProject\bin\Debug\MainProject.exe
+G:\CSharpCode\hw05\MainProject\bin\Debug\MainProject.pdb
+G:\CSharpCode\hw05\MainProject\obj\Debug\MainProject.csprojAssemblyReference.cache
+G:\CSharpCode\hw05\MainProject\obj\Debug\MainProject.csproj.CoreCompileInputs.cache
+G:\CSharpCode\hw05\MainProject\obj\Debug\MainProject.exe
+G:\CSharpCode\hw05\MainProject\obj\Debug\MainProject.pdb
