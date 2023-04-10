@@ -1,0 +1,11 @@
+G:\CSharpCode\hw06\hw06\bin\Debug\hw06.exe.config
+G:\CSharpCode\hw06\hw06\bin\Debug\hw06.exe
+G:\CSharpCode\hw06\hw06\bin\Debug\hw06.pdb
+G:\CSharpCode\hw06\hw06\obj\Debug\hw06.csprojAssemblyReference.cache
+G:\CSharpCode\hw06\hw06\obj\Debug\hw06.Form1.resources
+G:\CSharpCode\hw06\hw06\obj\Debug\hw06.Properties.Resources.resources
+G:\CSharpCode\hw06\hw06\obj\Debug\hw06.csproj.GenerateResource.cache
+G:\CSharpCode\hw06\hw06\obj\Debug\hw06.csproj.CoreCompileInputs.cache
+G:\CSharpCode\hw06\hw06\obj\Debug\hw06.exe
+G:\CSharpCode\hw06\hw06\obj\Debug\hw06.pdb
+G:\CSharpCode\hw06\hw06\obj\Debug\hw06.Form2.resources
