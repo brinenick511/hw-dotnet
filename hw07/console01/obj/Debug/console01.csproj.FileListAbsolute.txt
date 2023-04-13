@@ -1,0 +1,7 @@
+G:\CSharpCode\hw07\console01\bin\Debug\console01.exe.config
+G:\CSharpCode\hw07\console01\bin\Debug\console01.exe
+G:\CSharpCode\hw07\console01\bin\Debug\console01.pdb
+G:\CSharpCode\hw07\console01\obj\Debug\console01.csprojAssemblyReference.cache
+G:\CSharpCode\hw07\console01\obj\Debug\console01.csproj.CoreCompileInputs.cache
+G:\CSharpCode\hw07\console01\obj\Debug\console01.exe
+G:\CSharpCode\hw07\console01\obj\Debug\console01.pdb
