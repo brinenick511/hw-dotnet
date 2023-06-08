@@ -1,0 +1,11 @@
+D:\CSharpCode\hw10\CrawlerForm\bin\Debug\CrawlerForm.exe.config
+D:\CSharpCode\hw10\CrawlerForm\bin\Debug\CrawlerForm.exe
+D:\CSharpCode\hw10\CrawlerForm\bin\Debug\CrawlerForm.pdb
+D:\CSharpCode\hw10\CrawlerForm\obj\Debug\CrawlerForm.csproj.AssemblyReference.cache
+D:\CSharpCode\hw10\CrawlerForm\obj\Debug\CrawlerForm.csproj.SuggestedBindingRedirects.cache
+D:\CSharpCode\hw10\CrawlerForm\obj\Debug\CrawlerForm.Form1.resources
+D:\CSharpCode\hw10\CrawlerForm\obj\Debug\CrawlerForm.Properties.Resources.resources
+D:\CSharpCode\hw10\CrawlerForm\obj\Debug\CrawlerForm.csproj.GenerateResource.cache
+D:\CSharpCode\hw10\CrawlerForm\obj\Debug\CrawlerForm.csproj.CoreCompileInputs.cache
+D:\CSharpCode\hw10\CrawlerForm\obj\Debug\CrawlerForm.exe
+D:\CSharpCode\hw10\CrawlerForm\obj\Debug\CrawlerForm.pdb
